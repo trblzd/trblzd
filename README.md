@@ -14,10 +14,6 @@ Bem-vindo ao meu perfil no GitHub!
 - **Ferramentas:** Git, VS Code
 - **Bancos de Dados:** PostgreSQL, MongoDB, Firebase
 
-## 📈 Minhas Estatísticas no GitHub
-
-![Estatísticas do GitHub de trblzd](https://github-readme-stats.vercel.app/api?username=trblzd&show_icons=true&theme=radical)
-
 ## 🔗 Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/mariana-ferreira-278472281/)
@@ -28,8 +24,3 @@ Bem-vindo ao meu perfil no GitHub!
 
 - [Portfolio](https://github.com/trblzd/portfolio)
 - [O Mundo Mágico de Luna](https://github.com/trblzd/OMMDL)
-
-## 📝 Últimos Posts no Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
