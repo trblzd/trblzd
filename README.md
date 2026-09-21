@@ -1,26 +1,38 @@
-# Olá, sou trblzd 👋
+# Mariana · `trblzd`
 
-Bem-vindo ao meu perfil no GitHub!
+**Designer e Desenvolvedora Frontend**
 
-## 🚀 Sobre Mim
+Estudante de Design na UFPEL, Técnica em Informática. Desenvolvo interfaces, sistemas web e jogos — com foco em experiência do usuário!
 
-- 💬 Estou cursando Design na UFPEL e sou Técnica em Informática.
-- ⚡ As vezes apareço aqui, as vezes não.
+---
 
-## 🛠️ Minhas Habilidades
+## Projetos
 
-- **Linguagens:** JavaScript, HTML, CSS, GML
-- **Frameworks:** React, Node.js
-- **Ferramentas:** Git, VS Code
-- **Bancos de Dados:** PostgreSQL, MongoDB, Firebase
+**🚌 Busepel** — Rastreamento colaborativo de ônibus universitários da UFPel - Pelotas/RS. Estudantes acompanham a posição do ônibus em tempo real e votam na lotação.
+`React` · `Firebase` · `Leaflet` · `PWA`
+→ [github.com/trblzd/ufpelbus](https://github.com/trblzd/ufpelbus)
 
-## 🔗 Conecte-se Comigo
+**🌐 Nerdesign** — Jogo de perguntas sobre design no estilo "Quem Quer Ser um Milionário".
+→ [github.com/trblzd/nerdesign](https://github.com/trblzd/nerdesign)
 
-- [LinkedIn](https://www.linkedin.com/in/mariana-ferreira-278472281/)
-- [Twitter](https://twitter.com/dzlbrt)
-- [Site Pessoal](https://trblzd.github.io/portfolio/)
+**🎮 O Mundo Mágico de Luna** — Jogo 2D — TCC elaborado por Eduarda Moreira. Adaptei o projeto original para GameMaker, para que a autora realizasse o teste de usabilidade.
+`GML`
+→ [github.com/trblzd/OMMDL](https://github.com/trblzd/OMMDL)
 
-## 🧑‍💻 Contribuições em Código Aberto
+**🎨 Portfólio** — Site pessoal com trabalhos de design e desenvolvimento.
+→ [trblzd.github.io/portfolio](https://trblzd.github.io/portfolio/)
 
-- [Portfolio](https://github.com/trblzd/portfolio)
-- [O Mundo Mágico de Luna](https://github.com/trblzd/OMMDL)
+---
+
+## Tecnologias
+
+**Frontend** `JavaScript` `React` `HTML` `CSS` `Vite`
+**Backend** `Node.js` `Firebase`
+**Design** `Figma` `UI/UX`
+**Outros** `Git` `GML`
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/mariana-ferreira-278472281/) · [Instagram](https://instagram.com/trblzd) · [Portfólio](https://trblzd.github.io/portfolio/)
